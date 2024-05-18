@@ -1,3 +1,3 @@
-﻿# This is a rep for Apache airflow trainining
+﻿# This is a rep for Apache Airflow trainining
 
 Stepik course
